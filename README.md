@@ -2,7 +2,7 @@
 🔭 I’m currently working on machine learning projects at Airfi, exploring innovative solutions in data analysis and prediction models.<br>👯 I’m looking to collaborate on exciting machine learning or data-driven projects that push the boundaries of what technology can achieve.<br>🤝 I’m looking for help with optimizing ML models and scaling data pipelines—always open to learning new strategies!<br>🌱 I’m currently learning about advanced machine learning algorithms and real-world implementation techniques for large-scale systems.
 
 ## 🌐 MyWeb
-[![Web]](https://www.guidobiosca.com)
+https://www.guidobiosca.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guido-biosca-lasa) 
