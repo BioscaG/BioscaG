@@ -34,7 +34,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
 
 **Blockchain & Crypto**  
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)  
 ![Binance](https://img.shields.io/badge/Binance-%23F3BA2F.svg?style=for-the-badge&logo=binance&logoColor=white)  
 
 **Development & DevOps**  
