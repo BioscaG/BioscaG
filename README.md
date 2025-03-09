@@ -1,6 +1,6 @@
 # 👋 Hey, I'm **Guido Biosca**  
 
-🚀 **Machine Learning Engineer | Data Scientist | Software Developer**  
+🚀 **Data Scientist | Software Developer**  
 
 🔍 Passionate about AI, blockchain, and building **data-driven solutions** that push technological boundaries.  
 
